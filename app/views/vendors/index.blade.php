@@ -1,0 +1,1 @@
+C:\xampp\htdocs\tsoft_alpha\app/views/vendors/index.blade.php
